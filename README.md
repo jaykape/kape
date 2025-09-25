@@ -37,7 +37,7 @@ This project introduces a new approach which I'm not aware of any existing tools
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/kape.git
+git clone https://github.com/jaykape/kape.git
 cd kape
 ```
 
